@@ -24,9 +24,9 @@ The **Power BI report** visualizes patterns and trends in a patient dataset of 7
 
 | File Name                    | Description                                     |
 |-----------------------------|-------------------------------------------------|
-| `Diabetes Risk Report.pdf`  | Exported PDF version of the Power BI report    |
-| `Diabetes.pbix`             | Power BI project file (for editing & viewing)  |
-| `diabetes.xslx`             | Dataset used for generating the visualizations |
+| `Diabetics Risk Report.pdf`  | Exported PDF version of the Power BI report    |
+| `Diabetics.pbix`             | Power BI project file (for editing & viewing)  |
+| `diabetics.xslx`             | Dataset used for generating the visualizations |
 | `README.md`                 | Documentation and project summary              |
 
 ---
@@ -45,9 +45,9 @@ The **Power BI report** visualizes patterns and trends in a patient dataset of 7
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `diabetes.pbix` in **Power BI Desktop** to explore or modify the report.
-3. Use `diabetes.xslx` as the source data if you want to rebuild or modify visuals.
-4. View the summary in `diabetes_risk_report.pdf`.
+2. Open `diabetics.pbix` in **Power BI Desktop** to explore or modify the report.
+3. Use `diabetics.xslx` as the source data if you want to rebuild or modify visuals.
+4. View the summary in `Diabetics Risk Report.pdf`.
 
 ---
 
