@@ -24,8 +24,8 @@ The **Power BI report** visualizes patterns and trends in a patient dataset of 7
 
 | File Name                    | Description                                     |
 |-----------------------------|-------------------------------------------------|
-| `diabetes_risk_report.pdf`  | Exported PDF version of the Power BI report    |
-| `diabetes.pbix`             | Power BI project file (for editing & viewing)  |
+| `Diabetes Risk Report.pdf`  | Exported PDF version of the Power BI report    |
+| `Diabetes.pbix`             | Power BI project file (for editing & viewing)  |
 | `diabetes.xslx`             | Dataset used for generating the visualizations |
 | `README.md`                 | Documentation and project summary              |
 
